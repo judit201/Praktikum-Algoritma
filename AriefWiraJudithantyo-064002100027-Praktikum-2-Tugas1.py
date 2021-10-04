@@ -23,3 +23,4 @@ print("Hasil dari log(a) adalah", hasil)
 
 hasil = a ** b
 print("Hasil a pangkat b adalah", hasil)
+
