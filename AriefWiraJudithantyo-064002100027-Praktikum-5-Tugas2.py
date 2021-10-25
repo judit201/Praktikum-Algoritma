@@ -1,4 +1,9 @@
 total = 0
+
+print(38*"=")
+print("Selamat datang di kebun binatang Bogor")
+print(38*"=")
+
 while True:
     try:
         umur = int(input("Masukkan umur : "))
